@@ -1,11 +1,11 @@
 # awesome-embedded-libraries
-A curated list of awsome embedded libraries for sensors, peripherals, protocols, etc.
+A curated list of awesome embedded libraries for sensors, peripherals, protocols, ML, etc.
 
 Table of Contents:
 
-- Drivers
-    - Sensors
-        - Temperature/Humidity
+- [Drivers](#drivers)
+    - [Sensors](#sensors)
+        - [Temperature/Humidity](#temperature-humidity)
         - Envrironment
         - Proximity
             - Ultrasonic
@@ -89,3 +89,10 @@ Table of Contents:
     - TensorFlow Lite
 - Features
     - Button
+
+---
+## Drivers
+
+### Sensors
+
+#### Temperature/Humidity
