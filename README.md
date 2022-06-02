@@ -6,11 +6,11 @@ Table of Contents:
 - [Drivers](#drivers)
     - [Sensors](#sensors)
         - [Temperature/Humidity](#temperaturehumidity)
-        - Envrironment
-        - Proximity
-            - Ultrasonic
-            - Lidar
-            - Radar
+        - [Envrironmental](#envrironmental)
+        - [Proximity](#proximity)
+            - [Ultrasonic](#ultrasonic)
+            - [Lidar](#lidar)
+            - [Radar](#radar)
         - Pressure
         - Light
         - Vibration
@@ -96,3 +96,14 @@ Table of Contents:
 ### Sensors
 
 #### Temperature/Humidity
+
+#### Envrironmental
+
+#### Proximity
+
+##### Ultrasonic
+
+##### Lidar
+
+##### Radar
+
