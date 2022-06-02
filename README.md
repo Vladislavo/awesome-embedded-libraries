@@ -84,6 +84,11 @@ Table of Contents:
         - CAN
         - Ethernet
         - WiFi
+    - Buses
+        - UART
+        - SPI
+        - I2C
+        - USB
 - Machine Learning
     - TinyML
     - TensorFlow Lite
@@ -96,6 +101,8 @@ Table of Contents:
 ### Sensors
 
 #### Temperature/Humidity
+
+Adafruit's Arduino DHT family low-cost sensors library ([DHT11](https://components101.com/sensors/dht11-temperature-sensor), [DHT22](https://components101.com/sensors/dht22-pinout-specs-datasheet)) [link](https://github.com/adafruit/DHT-sensor-library) 
 
 #### Envrironmental
 
