@@ -5,7 +5,7 @@ Table of Contents:
 
 - [Drivers](#drivers)
     - [Sensors](#sensors)
-        - [Temperature/Humidity](#temperature/humidity)
+        - [Temperature/Humidity](#temperaturehumidity)
         - Envrironment
         - Proximity
             - Ultrasonic
