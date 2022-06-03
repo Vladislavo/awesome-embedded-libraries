@@ -59,6 +59,7 @@ Table of Contents:
     - Displays
         - OLED
         - LCD
+    - LED
     - Load Cell Amplifiers
     - Energy Harvesters
     - Encoders
@@ -94,6 +95,7 @@ Table of Contents:
     - TensorFlow Lite
 - Features
     - Button
+    - Debouncing
 
 ---
 ## Drivers
@@ -111,7 +113,14 @@ Table of Contents:
 
 Adafruit's Arduino DHT family low-cost sensors library ([DHT11](https://components101.com/sensors/dht11-temperature-sensor), [DHT22](https://components101.com/sensors/dht22-pinout-specs-datasheet)) [[link]](https://github.com/adafruit/DHT-sensor-library) 
 
-AHT20
+| Sensor Model |   Connectivity   |      Range      | Accuracy | Resolution  | Power Supply | Operating Current | Standby Current |
+|--------------|------------------|-----------------|----------|-------------|--------------|-------------------|-----------------|
+|[AHT20](https://cdn-learn.adafruit.com/assets/assets/000/091/676/original/AHT20-datasheet-2020-4-16.pdf?1591047915)| I2C | T: -40°C to 85°C  |   ±0.3°C   |   20 bits   |   2-5.5V   |       23uA       |       0.25uA      |
+|              |                  | H: 0% to 100%   |   ±2%    |             |              |                   |                 |
+
+Adafruit [AHT10](https://www.electroschematics.com/temperature-sensor/)+[AHT20](https://learn.adafruit.com/adafruit-aht20) Humidity and Temperature Sensor library for Arduino [[link]](https://github.com/adafruit/Adafruit_AHTX0)
+enjoyneering [[link]](https://github.com/enjoyneering/AHTxx)
+Seeed-Studio Arduino [[link]](https://github.com/Seeed-Studio/Seeed_Arduino_AHT20)
 
 BMP180 Temperature and Barometric
 
