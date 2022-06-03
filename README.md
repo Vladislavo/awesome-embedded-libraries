@@ -102,7 +102,40 @@ Table of Contents:
 
 #### Temperature/Humidity
 
+| Sensor Model |   Connectivity   |      Range      | Accuracy | Resolution  | Power Supply | Operating Current | Standby Current |
+|--------------|------------------|-----------------|----------|-------------|--------------|-------------------|-----------------|
+|[DHT11](https://components101.com/sites/default/files/component_datasheet/DHT11-Temperature-Sensor.pdf)| 1-wire exclusive | T: 0°C to 50°C  |   ±1°C   |   16 bits   |   3.5-5.0V   |       0.3mA       |       60uA      |
+|              |                  | H: 20% to 90%   |   ±1%    |             |              |                   |                 |
+|[DHT22](https://components101.com/sites/default/files/component_datasheet/DHT22%20Sensor%20Datasheet.pdf)| 1-wire exclusive | T: -40°C to 80°C|  ±0.5°C  |   16 bits   |   3.5-5.5V   |       0.3mA       |       60uA      |
+|              |                  | H: 0% to 100%   |    ±1%   |             |              |                   |                 |
+
 Adafruit's Arduino DHT family low-cost sensors library ([DHT11](https://components101.com/sensors/dht11-temperature-sensor), [DHT22](https://components101.com/sensors/dht22-pinout-specs-datasheet)) [[link]](https://github.com/adafruit/DHT-sensor-library) 
+
+Mathias Dalheimer's ESP8266 [DHT22](https://github.com/gonium/esp8266-dht22-sensor)
+
+AHT20
+
+BMP180 Temperature and Barometric
+
+BMP280 Temperature and Barometric
+
+BME280 Temperature, Humidity, and Air Pressure
+
+DS18B20 One Wire Temperature Sensor
+
+AF5485
+
+AM2311A
+
+LM35DZ (calibrated in Celsius), LM335 (calibrated in Kelvin), LM34 (calibrated in Fahrenheit)
+
+TMP36
+
+LM75
+
+TH02
+
+
 
 #### Envrironmental
 
