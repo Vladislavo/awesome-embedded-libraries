@@ -111,8 +111,6 @@ Table of Contents:
 
 Adafruit's Arduino DHT family low-cost sensors library ([DHT11](https://components101.com/sensors/dht11-temperature-sensor), [DHT22](https://components101.com/sensors/dht22-pinout-specs-datasheet)) [[link]](https://github.com/adafruit/DHT-sensor-library) 
 
-Mathias Dalheimer's ESP8266 [DHT22](https://github.com/gonium/esp8266-dht22-sensor)
-
 AHT20
 
 BMP180 Temperature and Barometric
