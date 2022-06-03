@@ -119,7 +119,9 @@ Adafruit's Arduino DHT family low-cost sensors library ([DHT11](https://componen
 |              |                  | H: 0% to 100%   |   ±2%    |             |              |                   |                 |
 
 Adafruit [AHT10](https://www.electroschematics.com/temperature-sensor/)+[AHT20](https://learn.adafruit.com/adafruit-aht20) Humidity and Temperature Sensor library for Arduino [[link]](https://github.com/adafruit/Adafruit_AHTX0)
+
 enjoyneering [[link]](https://github.com/enjoyneering/AHTxx)
+
 Seeed-Studio Arduino [[link]](https://github.com/Seeed-Studio/Seeed_Arduino_AHT20)
 
 BMP180 Temperature and Barometric
